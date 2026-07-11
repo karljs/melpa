@@ -1,0 +1,1 @@
+(consult-pdf-occur :fetcher github :repo "karljs/consult-pdf-occur")
